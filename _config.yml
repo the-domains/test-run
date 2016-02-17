@@ -1,7 +1,7 @@
 name: Test Run
 favicon: null
 layout_spectrum: 0.7534322650171816
-typography_spectrum: 0.3964890295173973
+typography_spectrum: 0.83009
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#010101'
+    - '#aa3508'
+    - '#ff7f19'
+    - '#e65600'
+    - '#feb55c'
   brandStrength: 0.1690596779808402
-  lightness: 0.2000259852502495
+  lightness: 0.25
   saturation: 0.870195824187249
-  rhythmicContrast: 0.10124977771192789
+  rhythmicContrast: 1
 purpose: []
